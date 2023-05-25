@@ -10,6 +10,7 @@
     ],
     "asset_directory": "Assets",
     "binary_directory": "bin",
+    "database_guid": "c39aaaaa-a501-4159-8a65-b068a91e701f",
     "library_directory": "lib",
     "thumbnail_guid": "301ac788-b4fd-4d04-a889-d49852d8826a",
     "default_scene": "3f4b3607-99d2-4577-9bc3-6c557fedb37b",
