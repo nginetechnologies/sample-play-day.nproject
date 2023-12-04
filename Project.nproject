@@ -1,6 +1,7 @@
 {
     "name": "Play Day",
-    "guid": "fcc6f9e5-a02a-4570-a036-b764d1ba2600",
+    "guid": "7ec1efa9-fcfa-496c-a2fc-8a88903d1cf2",
+    "database_guid": "d2a5165b-bb23-3077-f999-4e7e950b9af9",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [
@@ -12,8 +13,8 @@
     "binary_directory": "bin",
     "database_guid": "c39aaaaa-a501-4159-8a65-b068a91e701f",
     "library_directory": "lib",
-    "thumbnail_guid": "301ac788-b4fd-4d04-a889-d49852d8826a",
-    "default_scene": "3f4b3607-99d2-4577-9bc3-6c557fedb37b",
+    "thumbnail_guid": "1423faa1-5717-527c-0ea6-5797419c388c",
+    "default_scene": "194fe7af-7e8e-4e6a-b000-71b000fc57ba",
     "source": "Project.nproject",
 	"settings": {
 		"5ED68A2E-C9AF-454F-AD1E-416044E6498A": {

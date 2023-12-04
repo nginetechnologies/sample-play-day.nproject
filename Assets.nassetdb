@@ -1,45 +1,18 @@
 {
-    "guid": "c39aaaaa-a501-4159-8a65-b068a91e701f",
-    "3ab745aa-6a7d-608d-321a-60e00705f78f": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/Mindkraft_EnviroSpecular.tex.nasset"
-    },
-    "3f4b3607-99d2-4577-9bc3-6c557fedb37b": {
+    "194fe7af-7e8e-4e6a-b000-71b000fc57ba": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-        "path": "Assets/Play Day.scene.nasset"
+        "path": "Assets/Play Day.nasset"
     },
-    "65fa2306-551f-4f85-a438-89277b3a985d": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/M_Skybox.mtli.nasset",
-        "thumbnail": "8bcac5e9-3d51-56dc-992a-a0c38bb6b2e6"
-    },
-    "a6e8b812-86ee-20ce-4d85-fe4a3ec07690": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/Default_Skybox.tex.nasset"
-    },
-    "c2940fa0-88d1-e650-7003-f9e85ffe8c39": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/Mindkraft_Enviro.tex.nasset"
-    },
-    "d9fa4ff1-8968-23db-8e67-77642cb4d88e": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/Mindkraft_EnviroDiffuse.tex.nasset"
-    },
-    "e95160b5-9f01-a360-4319-88759e54333f": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Player/Thumbnails/Player.scene.nasset.tex.nasset"
-    },
-    "dac3f37b-2f05-4734-8d6f-89a4a5d90441": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Player/Player.scene.nasset",
-        "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
-    },
-    "fcc6f9e5-a02a-4570-a036-b764d1ba2600": {
+    "7ec1efa9-fcfa-496c-a2fc-8a88903d1cf2": {
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
-        "thumbnail": "301ac788-b4fd-4d04-a889-d49852d8826a"
-    }
+        "name": "Play Day",
+        "thumbnail": "1423faa1-5717-527c-0ea6-5797419c388c"
+    },
+    "d2a5165b-bb23-3077-f999-4e7e950b9af9": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
+    "guid": "d2a5165b-bb23-3077-f999-4e7e950b9af9"
 }
