@@ -11,10 +11,10 @@
     ],
     "asset_directory": "Assets",
     "binary_directory": "bin",
-    "database_guid": "c39aaaaa-a501-4159-8a65-b068a91e701f",
     "library_directory": "lib",
     "thumbnail_guid": "1423faa1-5717-527c-0ea6-5797419c388c",
     "default_scene": "194fe7af-7e8e-4e6a-b000-71b000fc57ba",
+    "tags": [ "f5777f96-a43c-4ebd-872a-1eeda5719aaf" ],
     "source": "Project.nproject",
 	"settings": {
 		"5ED68A2E-C9AF-454F-AD1E-416044E6498A": {
